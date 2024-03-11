@@ -90,7 +90,7 @@ function Home() {
                 <Card.Text>
                   <p>Promotes hair growth | Strengthens hair | Reduces hair fall</p>
                 </Card.Text>
-                <Button variant="primary">Know More</Button>
+                <Button variant="primary" href="/product1">Know More</Button>
               </Card.Body>
             </Card>
           </Col>
@@ -103,7 +103,7 @@ function Home() {
                 <Card.Text>
                   <p>Reduces hair fall & dandruff | Promotes hair growth</p>
                 </Card.Text>
-                <Button variant="primary">Know More</Button>
+                <Button variant="primary" href="/product2">Know More</Button>
               </Card.Body>
             </Card>
           </Col>
@@ -117,7 +117,7 @@ function Home() {
                 <Card.Text>
                   <p>Reduces dandruff & scalp itching | Moisturizes scalp & hair</p>
                 </Card.Text>
-                <Button variant="primary">Know More</Button>
+                <Button variant="primary" href="/product3">Know More</Button>
               </Card.Body>
             </Card>
           </Col>
@@ -130,7 +130,7 @@ function Home() {
                 <Card.Text>
                   <p>Repair & Rejuvenates hair | Controls hair fall</p>
                 </Card.Text>
-                <Button variant="primary">Know More</Button>
+                <Button variant="primary" href="/product4">Know More</Button>
               </Card.Body>
             </Card>
           </Col>
@@ -143,7 +143,7 @@ function Home() {
                 <Card.Text>
                   <p>Reduces hair fall | Moisturizes hair & scalp</p>
                 </Card.Text>
-                <Button variant="primary">Know More</Button>
+                <Button variant="primary" href="/product5">Know More</Button>
               </Card.Body>
             </Card>
           </Col>
