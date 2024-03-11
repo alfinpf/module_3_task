@@ -1,5 +1,5 @@
-import React from 'react'
-import './mycss.css'
+import React from 'react';
+import './mycss.css';
 
 function About() {
   return (
@@ -12,4 +12,4 @@ function About() {
   )
 }
 
-export default About
+export default About;

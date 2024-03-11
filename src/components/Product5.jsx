@@ -1,6 +1,6 @@
-import React from 'react'
-import './mycss.css'
-import { Container, Carousel, Row, Col, Accordion } from 'react-bootstrap'
+import React from 'react';
+import './mycss.css';
+import { Container, Carousel, Row, Col, Accordion } from 'react-bootstrap';
 
 
 function Product5() {
@@ -193,4 +193,4 @@ function Product5() {
   )
 }
 
-export default Product5
+export default Product5;

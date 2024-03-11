@@ -1,6 +1,6 @@
-import React from 'react'
-import './mycss.css'
-import { Container, Row, Col, Carousel, Card, Button, Accordion } from 'react-bootstrap'
+import React from 'react';
+import './mycss.css';
+import { Container, Row, Col, Carousel, Card, Button, Accordion } from 'react-bootstrap';
 
 function Home() {
   return (
@@ -202,4 +202,4 @@ function Home() {
   )
 }
 
-export default Home
+export default Home;
