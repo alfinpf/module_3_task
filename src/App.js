@@ -15,9 +15,8 @@ import Product5 from "./components/Product5";
 function App() {
   return (
     <div>
-      <Header/>
-
       <Router>
+      <Header/>
         <Routes>
           <Route path="/" element={<Home/>}/>
           <Route path="/about" element={<About/>}/>

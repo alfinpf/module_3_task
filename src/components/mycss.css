@@ -52,3 +52,9 @@ p {
     justify-content: center;
     align-items: center;
 }
+
+.nav-link.active{
+    background-color: rgb(237, 199, 122);
+    font-family: sans-serif;
+    font-size: 17px;
+}
