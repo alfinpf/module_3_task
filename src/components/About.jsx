@@ -9,7 +9,7 @@ function About() {
       <h2>Entri- Full Stack Web Development- Batch E-25</h2>
       <h3>React Replacement of Level #1</h3>
       </div>
-  )
+  ) 
 }
 
 export default About;
